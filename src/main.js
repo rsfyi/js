@@ -1,3 +1,5 @@
+import './beginner';
+
 // get element ref with app-root
 const rootElement = document.getElementById('app-root');
 
